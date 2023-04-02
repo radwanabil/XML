@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+
+<library>
+  <location>12 Main St.</location>
+  <description>A public library.</description>
+  <librarian>Radwa Nabil</librarian>
+  <books>
+    <book>
+      <title>The giver of stars</title>
+      <ISBN>9783161484100</ISBN>
+      <author>Jojo moyes</author>
+      <preface>
+        <title>Introduction</title>
+        <sections>
+          <section>
+            <paragraph>This book is a Drama.</paragraph>
+          </section>
+        </sections>
+      </preface>
+      <parts>
+        <part>
+          <title>Part One</title>
+          <chapters>
+            <chapter>
+              <title>Chapter 1</title>
+              <summary>A brief summary of Chapter 1.</summary>
+              <sections>
+                <section>
+                  <paragraph>The main character is introduced.</paragraph>
+                </section>
+                <section>
+                  <paragraph>She went on a ride with her horse</paragraph>
+                </section>
+              </sections>
+            </chapter>
+            <chapter>
+              <title>Chapter 2</title>
+              <summary>A brief summary of Chapter 2.</summary>
+              <sections>
+                <section>
+                  <paragraph>she walks to the train station.</paragraph>
+                </section>
+                <section>
+                  <paragraph>she talks to a woman on the train and lies to her about his identity.</paragraph>
+                </section>
+              </sections>
+            </chapter>
+          </chapters>
+        </part>
+        <part>
+          <title>Part Two</title>
+          <chapters>
+            <chapter>
+              <title>Chapter 3</title>
+              <summary>A brief summary of Chapter 3.</summary>
+              <sections>
+                <section>
+                  <paragraph>Holden goes to a bar and meets some girls.</paragraph>
+                </section>
+                <section>
+                  <paragraph>Holden gets into a fight with some guys at the bar.</paragraph>
+                </section>
+              </sections>
+            </chapter>
+            <chapter>
+              <title>Chapter 4</title>
+              <summary>A brief summary of Chapter 4.</summary>
+              <sections>
+                <section>
+                  <paragraph>Holden goes on a date with a girl named Sally.</paragraph>
+                </section>
+                <section>
+                  <paragraph>Holden and Sally argue and Holden leaves.</paragraph>
+                </section>
+              </sections>
+            </chapter>
+          </chapters>
+        </part>
+      </parts>
+    </book>
+    <book>
+ <title>Harry potter and the philosophers stone</title>
+      <ISBN>9783161484180</ISBN>
+      <author>J.K Rowling</author>
+      <preface>
+        <title>Introduction</title>
+        <sections>
+          <section>
+            <paragraph>This book is fantasy.</paragraph>
+          </section>
+        </sections>
+      </preface>
+      <parts>
+        <part>
+          <title>Part One</title>
+          <chapters>
+            <chapter>
+              <title>Chapter 1</title>
+              <summary>A brief summary of Chapter 1.</summary>
+              <sections>
+                <section>
+                  <paragraph>The boy who lived</paragraph>
+                </section>
+                <section>
+                  <paragraph>the story starts with a description of the family</paragraph>
+                </section>
+              </sections>
+            </chapter>
+            <chapter>
+              <title>Chapter 2</title>
+              <summary>A brief summary of Chapter 2.</summary>
+              <sections>
+                <section>
+                  <paragraph>he walks to the train station.</paragraph>
+                </section>
+                <section>
+                  <paragraph>he talks to a woman on the train and lies to her about his identity.</paragraph>
+                </section>
+              </sections>
+            </chapter>
+          </chapters>
+        </part>
+        <part>
+          <title>Part Two</title>
+          <chapters>
+            <chapter>
+              <title>Chapter 3</title>
+              <summary>A brief summary of Chapter 3.</summary>
+              <sections>
+                <section>
+                  <paragraph>In this chapter, Harry discovers his magical abilities...</paragraph>
+                </section>
+                <section>
+                  <paragraph>One day, Harry starts to notice strange things happening....</paragraph>
+                </section>
+              </sections>
+            </chapter>
+          </chapters>
+        </part>
+      </parts>
+    </book>
+  </books>
+</library>

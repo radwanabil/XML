@@ -1,0 +1,14 @@
+
+employee {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: block;
+    background-color: antiquewhite;
+  }
+  name,phone,address,email,city,street,country,building,region{
+    display: block;
+    font-weight: 400;
+  }
+
