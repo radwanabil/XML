@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/Users/Radwa%20Nabil/OneDrive/Documents/Altova/XMLSpy2023/Examples/lab3.xsd">
+	<employee>
+		<name>Employee Name: Radwa Nabil</name>
+		<phones>
+			<phone type="work">Work phone: 0128989009</phone>
+			<phone type="mobile">Mobile phone: 01154576987</phone>
+			<phone type="home">Home phone: 0398798980</phone>
+		</phones>
+		<addresses>
+			<address>
+				<street>Street: 123 Main St.</street>
+				<city>City: alex</city>
+				<country>Country: Egypt</country>
+				<building>Building: 15</building>
+				<region>Region: sporting</region>
+			</address>
+			<address>
+				<street>Street: 128 Main St.</street>
+				<city>City: cairo</city>
+				<country>Country: Egypt</country>
+				<building>Building: 50</building>
+				<region>Region: mohram beek</region>
+			</address>
+		</addresses>
+		<email>Email: radwa@gmail.com</email>
+	</employee>
+	<employee>
+		<name>Employee Name: Rima Nabil</name>
+		<phone type="work">Work phone: 0125786790</phone>
+		<phone type="mobile">Mobile phone: 01287809888</phone>
+		<phone type="home">Home phone: 0398798980</phone>
+		<addresses>
+			<address>
+				<street>Street: 12 Main St.</street>
+				<city>City: alex</city>
+				<country>Country: Egypt</country>
+				<building>Building: 10</building>
+				<region>Region: smouha</region>
+			</address>
+			<address>
+				<street>Street: 19 Main St.</street>
+				<city>City: damnhour</city>
+				<country>Country: Egypt</country>
+				<building>Building: 19</building>
+				<region>Region: sidi beshr</region>
+			</address>
+		</addresses>
+		<email>Email: rima@yahoo.com</email>
+	</employee>
+</employees>
